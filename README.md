@@ -1,4 +1,4 @@
-https://dev.azure.com/vivekjain0811/FirstDevOpsDemo/_apis/build/status/vivekharrai.pipelines-java?branchName=master
+[![Build Status](https://dev.azure.com/vivekjain0811/FirstDevOpsDemo/_apis/build/status/vivekharrai.pipelines-java?branchName=master)](https://dev.azure.com/vivekjain0811/FirstDevOpsDemo/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
